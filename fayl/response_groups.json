@@ -1,0 +1,5815 @@
+{
+  "success": true,
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "id": 2831,
+        "name": "3m18",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 999
+      },
+      {
+        "id": 2830,
+        "name": "3m17",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 999
+      },
+      {
+        "id": 2829,
+        "name": "2021-bolalar nevrologiyasi",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 44,
+          "code": "5A510205",
+          "name": "Bolalar nevrologiyasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1062
+      },
+      {
+        "id": 2828,
+        "name": "Xirurgik stomatologiya(Ordinatura)",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 174,
+          "code": "80910709",
+          "name": "Xirurgik stomatologiya"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1060
+      },
+      {
+        "id": 2827,
+        "name": "Otorinolaringologiya",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 172,
+          "code": "80910204",
+          "name": "Otorinolaringologiya"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1059
+      },
+      {
+        "id": 2826,
+        "name": "Akusherlik va ginekologiya",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 173,
+          "code": "80910201",
+          "name": "Akusherlik va ginekologiya"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1058
+      },
+      {
+        "id": 2825,
+        "name": "Yuz-jag' xirurgiyasi",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 171,
+          "code": "80910710",
+          "name": "Yuz-jag' xirurgiyasi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1057
+      },
+      {
+        "id": 2824,
+        "name": "Yurak-qon tomir xirurgiyasi ",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 170,
+          "code": "80910724",
+          "name": "Yurak-qon tomir xirurgiyasi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1055
+      },
+      {
+        "id": 2822,
+        "name": "Kardiologiya(2023)",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 169,
+          "code": "80910205",
+          "name": "Kardiologiya"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1056
+      },
+      {
+        "id": 2821,
+        "name": "xt4t2020-01",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 157,
+          "code": "5510100",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1054
+      },
+      {
+        "id": 2820,
+        "name": "2023-Bolalar kardiorevmatologiyasi",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 168,
+          "code": "80910275",
+          "name": "Bolalar kardiorevmatologiyasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1053
+      },
+      {
+        "id": 2819,
+        "name": "2020-Bolalar nevrologiyasi",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 121,
+          "code": "80910305",
+          "name": "Bolalar nevrologiyasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1052
+      },
+      {
+        "id": 2817,
+        "name": "qtmj2021-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 162,
+          "code": "5230200",
+          "name": "Menejment: sog'liqni saqlash menjmenti"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1051
+      },
+      {
+        "id": 2816,
+        "name": "qtfr2021-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 161,
+          "code": "5510500",
+          "name": "Farmatsiya (Farmatsiya ishi)"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1038
+      },
+      {
+        "id": 2815,
+        "name": "qtst2021-02",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 165,
+          "code": "5510400",
+          "name": "Stomatologiya (yo‘nalishlar bo‘yicha)"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1041
+      },
+      {
+        "id": 2814,
+        "name": "qtst2021-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 165,
+          "code": "5510400",
+          "name": "Stomatologiya (yo‘nalishlar bo‘yicha)"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1041
+      },
+      {
+        "id": 2813,
+        "name": "qtmj2022-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 162,
+          "code": "5230200",
+          "name": "Menejment: sog'liqni saqlash menjmenti"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1048
+      },
+      {
+        "id": 2812,
+        "name": "qtmj2020-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 162,
+          "code": "5230200",
+          "name": "Menejment: sog'liqni saqlash menjmenti"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1045
+      },
+      {
+        "id": 2811,
+        "name": "qtpf2020-02",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 164,
+          "code": "5510200",
+          "name": "Pediatriya ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1043
+      },
+      {
+        "id": 2810,
+        "name": "qtpf2020-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 164,
+          "code": "5510200",
+          "name": "Pediatriya ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1043
+      },
+      {
+        "id": 2809,
+        "name": "qtlf2020-04",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 160,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1042
+      },
+      {
+        "id": 2808,
+        "name": "qtlf2020-03",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 160,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1042
+      },
+      {
+        "id": 2807,
+        "name": "qtlf2020-02",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 160,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1042
+      },
+      {
+        "id": 2806,
+        "name": "qtlf2020-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 160,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1042
+      },
+      {
+        "id": 2805,
+        "name": "qtkp2020-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 163,
+          "code": "5210200",
+          "name": "Kilinik psixologiya"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1050
+      },
+      {
+        "id": 2804,
+        "name": "qtst2020-02",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 165,
+          "code": "5510400",
+          "name": "Stomatologiya (yo‘nalishlar bo‘yicha)"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1049
+      },
+      {
+        "id": 2803,
+        "name": "qtst2020-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 165,
+          "code": "5510400",
+          "name": "Stomatologiya (yo‘nalishlar bo‘yicha)"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1049
+      },
+      {
+        "id": 2802,
+        "name": "4m12",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1047
+      },
+      {
+        "id": 2801,
+        "name": "4m11",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1047
+      },
+      {
+        "id": 2800,
+        "name": "4m10",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1047
+      },
+      {
+        "id": 2799,
+        "name": "4m9",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1047
+      },
+      {
+        "id": 2798,
+        "name": "4m8",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1047
+      },
+      {
+        "id": 2797,
+        "name": "4m7",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1047
+      },
+      {
+        "id": 2796,
+        "name": "4m6",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1047
+      },
+      {
+        "id": 2795,
+        "name": "4m5",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1047
+      },
+      {
+        "id": 2794,
+        "name": "4m4",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1047
+      },
+      {
+        "id": 2793,
+        "name": "4m3",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1047
+      },
+      {
+        "id": 2792,
+        "name": "4m2",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1047
+      },
+      {
+        "id": 2791,
+        "name": "4m1",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1047
+      },
+      {
+        "id": 2790,
+        "name": "qtkp2021-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 163,
+          "code": "5210200",
+          "name": "Kilinik psixologiya"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1046
+      },
+      {
+        "id": 2789,
+        "name": "qtche2023-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 167,
+          "code": "61011100",
+          "name": "Chiroy estetikasi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1044
+      },
+      {
+        "id": 2788,
+        "name": "qtpf2021-02",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 164,
+          "code": "5510200",
+          "name": "Pediatriya ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1040
+      },
+      {
+        "id": 2787,
+        "name": "qtpf2021-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 164,
+          "code": "5510200",
+          "name": "Pediatriya ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1040
+      },
+      {
+        "id": 2786,
+        "name": "qtlf2021-02",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 160,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1039
+      },
+      {
+        "id": 2785,
+        "name": "qtlf2021-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 160,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1039
+      },
+      {
+        "id": 2784,
+        "name": "qtmj2023-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 166,
+          "code": "5230200",
+          "name": "Menejment"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1037
+      },
+      {
+        "id": 2783,
+        "name": "qtkp2023-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 163,
+          "code": "5210200",
+          "name": "Kilinik psixologiya"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1036
+      },
+      {
+        "id": 2782,
+        "name": "qtst2023-02",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 159,
+          "code": "60910100",
+          "name": "Stomatologiya (yo‘nalishlar bo‘yicha)"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1035
+      },
+      {
+        "id": 2781,
+        "name": "qtst2023-01",
+        "department": {
+          "id": 226,
+          "name": "Qo'shma ta'lim fakulteti",
+          "code": "363-115",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "10",
+            "name": "Boshqa"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 159,
+          "code": "60910100",
+          "name": "Stomatologiya (yo‘nalishlar bo‘yicha)"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1035
+      },
+      {
+        "id": 2780,
+        "name": "qtst2023-02",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 158,
+          "code": "60910100",
+          "name": "Stomatologiya (yo‘nalishlar bo‘yicha)"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1003
+      },
+      {
+        "id": 2779,
+        "name": "qtst2023-01",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 158,
+          "code": "60910100",
+          "name": "Stomatologiya (yo‘nalishlar bo‘yicha)"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 1003
+      },
+      {
+        "id": 2778,
+        "name": "2023-Yuz-jag' xirurgiyasi",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 141,
+          "code": "809010710",
+          "name": "Yuz-jag' xirurgiyasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1034
+      },
+      {
+        "id": 2777,
+        "name": "2023-Xirurgik stomatologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 140,
+          "code": "809010709",
+          "name": "Xirurgik stomatologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1033
+      },
+      {
+        "id": 2776,
+        "name": "2023-Urologiya ",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 114,
+          "code": "80910217",
+          "name": "Urologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1032
+      },
+      {
+        "id": 2775,
+        "name": "2023-Umumiy xirurgiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 113,
+          "code": "80910212",
+          "name": "Umumiy xirurgiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1031
+      },
+      {
+        "id": 2774,
+        "name": "2023-Umumiy onkologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 112,
+          "code": "80910210",
+          "name": "Umumiy onkologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1030
+      },
+      {
+        "id": 2773,
+        "name": "2023-Travmatologiya va ortopediya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 111,
+          "code": "80910221",
+          "name": "Travmatologiya va ortopediya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1029
+      },
+      {
+        "id": 2772,
+        "name": "2023-Tibbiy radiologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 110,
+          "code": "80910227",
+          "name": "Tibbiy radiologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1028
+      },
+      {
+        "id": 2771,
+        "name": "2023-Terapiya (Ichki kasalliklar)",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 128,
+          "code": "80910203",
+          "name": "Terapiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1027
+      },
+      {
+        "id": 2770,
+        "name": "2023-Terapevtik stomatologiya ",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 139,
+          "code": "809010708",
+          "name": "Terapevtik stomatologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1026
+      },
+      {
+        "id": 2769,
+        "name": "2023-Pediatriya ",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 118,
+          "code": "80910301",
+          "name": "Pediatriya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1025
+      },
+      {
+        "id": 2768,
+        "name": "2023-Ortopedik stomatologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 137,
+          "code": "809010706",
+          "name": "Ortopedik stomatologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1024
+      },
+      {
+        "id": 2767,
+        "name": "2023-Ortodontiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 136,
+          "code": "809010705",
+          "name": "Ortodontiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1023
+      },
+      {
+        "id": 2766,
+        "name": "2023-Otorinolaringologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 105,
+          "code": "80910204",
+          "name": "Otorinolaringologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1022
+      },
+      {
+        "id": 2765,
+        "name": "2023-Oftalmologiya ",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 106,
+          "code": "80910206",
+          "name": "Oftalmologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1021
+      },
+      {
+        "id": 2764,
+        "name": "2023-Nevroxirurgiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 104,
+          "code": "80910214",
+          "name": "Nevroxirurgiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1020
+      },
+      {
+        "id": 2763,
+        "name": "2023-Nevrologiya ",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 103,
+          "code": "80910209",
+          "name": "Nevrologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1019
+      },
+      {
+        "id": 2762,
+        "name": "2023-Neonatologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 124,
+          "code": "80910306",
+          "name": "Neonatologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1018
+      },
+      {
+        "id": 2761,
+        "name": "2023-Nefrologiya gemodializ bilan",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 135,
+          "code": "809010704",
+          "name": "Nefrologiya gemodializ bilan"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1017
+      },
+      {
+        "id": 2760,
+        "name": "2023-Laboratoriya ishi",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 127,
+          "code": "80910601",
+          "name": "Laboratoriya ishi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1016
+      },
+      {
+        "id": 2759,
+        "name": "2023-Kardiologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 97,
+          "code": "80910205",
+          "name": "Kardiologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1015
+      },
+      {
+        "id": 2758,
+        "name": "2023-Endokrinologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 116,
+          "code": "80910202",
+          "name": "Endokrinologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1014
+      },
+      {
+        "id": 2757,
+        "name": "2023-Dermatovenerologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 101,
+          "code": "80910208",
+          "name": "Dermatovenerologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1013
+      },
+      {
+        "id": 2756,
+        "name": "2023-Dental impantologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 142,
+          "code": "80910703",
+          "name": "Dental impantologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1012
+      },
+      {
+        "id": 2755,
+        "name": "2023-Bolalar xirurgiyasi",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 122,
+          "code": "80910302",
+          "name": "Bolalar xirurgiyasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1011
+      },
+      {
+        "id": 2754,
+        "name": "2023-Bolalar xirurgik stomatologiyasi",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 133,
+          "code": "80910702",
+          "name": "Bolalar xirurgik stomatologiyasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1010
+      },
+      {
+        "id": 2753,
+        "name": "2023-Bolalar va o'smir qizlar ginekologiyasi",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 120,
+          "code": "80910307",
+          "name": "Bolalar va o‘smir qizlar ginekologiyasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1009
+      },
+      {
+        "id": 2752,
+        "name": "2023-Bolalar terapevtik stomatologiyasi",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 132,
+          "code": "80910701",
+          "name": "Bolalar terapevtik stomatologiyasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1008
+      },
+      {
+        "id": 2751,
+        "name": "2023-Bolalar nevrologiyasi",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 121,
+          "code": "80910305",
+          "name": "Bolalar nevrologiyasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1007
+      },
+      {
+        "id": 2750,
+        "name": "2023-Bolalar nefrologiyasi gemodializ bilan",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 131,
+          "code": "80910700",
+          "name": "Bolalar nefrologiyasi gemodializ bilan"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1006
+      },
+      {
+        "id": 2749,
+        "name": "2023-Bolalar anesteziologiya va reanimatologiyasi",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 119,
+          "code": "80910303",
+          "name": "Bolalar anesteziologiya va reanimatologiyasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1005
+      },
+      {
+        "id": 2748,
+        "name": "2023-Anesteziologiya va reanimatologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 99,
+          "code": "80910220",
+          "name": "Anesteziologiya va reanimatologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 1004
+      },
+      {
+        "id": 2747,
+        "name": "2023-Akusherlik va ginekologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 96,
+          "code": "80910201",
+          "name": "Akusherlik va ginekologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 968
+      },
+      {
+        "id": 2746,
+        "name": "6m9",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 946
+      },
+      {
+        "id": 2745,
+        "name": "6m8",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 946
+      },
+      {
+        "id": 2744,
+        "name": "4m28",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 959
+      },
+      {
+        "id": 2743,
+        "name": "4m27",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 959
+      },
+      {
+        "id": 2742,
+        "name": "4m26",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 959
+      },
+      {
+        "id": 2740,
+        "name": "4m25",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 959
+      },
+      {
+        "id": 2739,
+        "name": "4m24",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 959
+      },
+      {
+        "id": 2738,
+        "name": "4m23",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 959
+      },
+      {
+        "id": 2737,
+        "name": "4m22",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 959
+      },
+      {
+        "id": 2736,
+        "name": "4m21",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 959
+      },
+      {
+        "id": 2735,
+        "name": "4m20",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 959
+      },
+      {
+        "id": 2734,
+        "name": "4m19",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 959
+      },
+      {
+        "id": 2733,
+        "name": "4m18",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 959
+      },
+      {
+        "id": 2732,
+        "name": "4m17",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 959
+      },
+      {
+        "id": 2731,
+        "name": "5m3",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1002
+      },
+      {
+        "id": 2730,
+        "name": "5m2",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1002
+      },
+      {
+        "id": 2729,
+        "name": "5m1",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1002
+      },
+      {
+        "id": 2728,
+        "name": "3m13",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1001
+      },
+      {
+        "id": 2727,
+        "name": "3m12",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1001
+      },
+      {
+        "id": 2726,
+        "name": "3m11",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1001
+      },
+      {
+        "id": 2725,
+        "name": "3m10",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1001
+      },
+      {
+        "id": 2724,
+        "name": "3m9",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1001
+      },
+      {
+        "id": 2723,
+        "name": "3m8",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1001
+      },
+      {
+        "id": 2722,
+        "name": "3m7",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1001
+      },
+      {
+        "id": 2721,
+        "name": "3m6",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1001
+      },
+      {
+        "id": 2720,
+        "name": "3m5",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1001
+      },
+      {
+        "id": 2719,
+        "name": "3m4",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1001
+      },
+      {
+        "id": 2718,
+        "name": "3m3",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1001
+      },
+      {
+        "id": 2717,
+        "name": "3m2",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1001
+      },
+      {
+        "id": 2716,
+        "name": "3m1",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 1001
+      },
+      {
+        "id": 2715,
+        "name": "1m27",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2714,
+        "name": "1m25",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2713,
+        "name": "1m26",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2712,
+        "name": "1m23",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2711,
+        "name": "1m22",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2709,
+        "name": "1m28",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2657,
+        "name": "1m20",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2656,
+        "name": "3m16",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 999
+      },
+      {
+        "id": 2655,
+        "name": "3m15",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 999
+      },
+      {
+        "id": 2654,
+        "name": "3m14",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 999
+      },
+      {
+        "id": 2653,
+        "name": "3m13",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 999
+      },
+      {
+        "id": 2652,
+        "name": "3m12",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 999
+      },
+      {
+        "id": 2651,
+        "name": "3m11",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 999
+      },
+      {
+        "id": 2650,
+        "name": "2022-tibbiy radiologiya",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 80,
+          "code": "5A510132",
+          "name": "Tibbiy radiologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 900
+      },
+      {
+        "id": 2648,
+        "name": "2023-stomatologiya",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 47,
+          "code": "70910101",
+          "name": "Stomatologiya (yo‘nalishlar bo‘yicha)"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 995
+      },
+      {
+        "id": 2647,
+        "name": "2023-Farmasevtik kimyo va farmakognoziya ",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 152,
+          "code": "70910701",
+          "name": "Farmasevtik kimyo va farmakognoziya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 994
+      },
+      {
+        "id": 2646,
+        "name": "2023-bolalar nevrologiyasi",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 44,
+          "code": "5A510205",
+          "name": "Bolalar nevrologiyasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 993
+      },
+      {
+        "id": 2645,
+        "name": "Bolalar va o‘smirlar ginekologiyasi(2023-2024)",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 85,
+          "code": "70910307",
+          "name": "Bolalar va o‘smirlar ginekologiyasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 992
+      },
+      {
+        "id": 2644,
+        "name": "2023-morfologiya",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 32,
+          "code": "70910218",
+          "name": "Morfologiya (yo‘nalishlar bo‘yicha)"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 991
+      },
+      {
+        "id": 2643,
+        "name": "2023-xirurgiya",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 27,
+          "code": "5A510112",
+          "name": "Xirurgiya (yo‘nalishlar bo‘yicha)"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 990
+      },
+      {
+        "id": 2642,
+        "name": "2023- terapiya (yo'nalishlar bo'yicha)",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 16,
+          "code": "5A510103",
+          "name": "Terapiya (yo‘nalishlar bo‘yicha)"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 989
+      },
+      {
+        "id": 2641,
+        "name": "2023-pediatriya",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 42,
+          "code": "5A510201",
+          "name": "Pediatriya (umumiy)"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 988
+      },
+      {
+        "id": 2640,
+        "name": "2023-kardiologiya",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 18,
+          "code": "5A510105",
+          "name": "Kardiologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 987
+      },
+      {
+        "id": 2639,
+        "name": "2023-otorinolaringologiya",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 17,
+          "code": "5A510104",
+          "name": "Otorinolaringologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 986
+      },
+      {
+        "id": 2638,
+        "name": "2023-anesteziologiya va reanimatologiya",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 34,
+          "code": "5A510120",
+          "name": "Anesteziologiya va reanimatologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 985
+      },
+      {
+        "id": 2637,
+        "name": "2023-Sog‘liqni saqlashni boshqarish va jamoat sog‘lig‘ini saqlash (yo‘nalishlar bo‘yicha)",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 143,
+          "code": "70910215",
+          "name": "Sog‘liqni saqlashni boshqarish va jamoat sog‘lig‘ini saqlash (yo‘nalishlar bo‘yicha)"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 984
+      },
+      {
+        "id": 2636,
+        "name": "2023-dermatovenerologiya",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 21,
+          "code": "5A510108",
+          "name": "Dermatovenerologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 983
+      },
+      {
+        "id": 2635,
+        "name": "2023-endokrinologiya",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 23,
+          "code": "5A510102",
+          "name": "Endokrinologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 982
+      },
+      {
+        "id": 2634,
+        "name": "2023-akusher",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 14,
+          "code": "5A510101",
+          "name": "Akusherlik va ginekologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 981
+      },
+      {
+        "id": 2633,
+        "name": "2023-umumiy onkologiya",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 25,
+          "code": "5A510110",
+          "name": "Umumiy onkologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 980
+      },
+      {
+        "id": 2632,
+        "name": "2023-Gigiena",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 125,
+          "code": "80910401",
+          "name": "Gigiena"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 979
+      },
+      {
+        "id": 2630,
+        "name": "2023-Mehnat gigiyenasi",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 154,
+          "code": "80910711",
+          "name": "Mehnat gigiyenasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 978
+      },
+      {
+        "id": 2629,
+        "name": "2023-Kommunal gigiyena",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 155,
+          "code": "80910715",
+          "name": "Kommunal gigiyenasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 977
+      },
+      {
+        "id": 2628,
+        "name": "2023-Bolalar va o'smirlar gigiyenasi",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 156,
+          "code": "80910714",
+          "name": "Bolalar va o'smirlar gigiyenasi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 976
+      },
+      {
+        "id": 2627,
+        "name": "2023-Yuqumli kasalliklar",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 117,
+          "code": "80910207",
+          "name": "Yuqumli kasalliklar"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 975
+      },
+      {
+        "id": 2626,
+        "name": "2023-Psixiatriya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 107,
+          "code": "80910211",
+          "name": "Psixiatriya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 974
+      },
+      {
+        "id": 2625,
+        "name": "2023-Patologik anatomiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 129,
+          "code": "80910223",
+          "name": "Patologik anatomiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 973
+      },
+      {
+        "id": 2624,
+        "name": "2023-Narkologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 102,
+          "code": "80910219",
+          "name": "Narkologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 972
+      },
+      {
+        "id": 2623,
+        "name": "2023-Epidemiologiya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 126,
+          "code": "80910403",
+          "name": "Epidemiologiya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 970
+      },
+      {
+        "id": 2622,
+        "name": "2023-Ftiziatriya",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 115,
+          "code": "80910228",
+          "name": "Ftiziatriya"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 971
+      },
+      {
+        "id": 2621,
+        "name": "2023-Bolalar yuqumli kasalliklari",
+        "department": {
+          "id": 54,
+          "name": "Klinik ordinatura",
+          "code": "363-110",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 123,
+          "code": "80910310",
+          "name": "Bolalar yuqumli kasalliklari"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 969
+      },
+      {
+        "id": 2620,
+        "name": "Terapiya (ichki kassaliklar)",
+        "department": {
+          "id": 52,
+          "name": "Magistratura bo'limi",
+          "code": "363-109",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 79,
+          "code": "5A510103",
+          "name": "Terapiya (ichki kasalliklar)"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 967
+      },
+      {
+        "id": 2619,
+        "name": "1m21",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2618,
+        "name": "1m24",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2617,
+        "name": "kp2023-01",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 59,
+          "code": "5210200",
+          "name": "Kilinik psixologiya"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 966
+      },
+      {
+        "id": 2616,
+        "name": "1m19",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2615,
+        "name": "1m18",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2614,
+        "name": "1m15",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2613,
+        "name": "1m17",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2612,
+        "name": "1m16",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2611,
+        "name": "1m14",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2610,
+        "name": "1m13",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2609,
+        "name": "1m12",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2608,
+        "name": "1m11",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2607,
+        "name": "1m10",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2606,
+        "name": "1m9",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2605,
+        "name": "1m8",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2604,
+        "name": "1m7",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2603,
+        "name": "1m6",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2602,
+        "name": "1m5",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2601,
+        "name": "1m4",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2596,
+        "name": "1m3",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2594,
+        "name": "6m1",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 965
+      },
+      {
+        "id": 2593,
+        "name": "1m2",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2592,
+        "name": "1m1",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 53,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 964
+      },
+      {
+        "id": 2591,
+        "name": "1m1",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 57,
+          "code": "5230200",
+          "name": "Menejment: sog'liqni saqlash menjmenti"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 963
+      },
+      {
+        "id": 2590,
+        "name": "1lf2018-24",
+        "department": {
+          "id": 1,
+          "name": "1-son Davolash ishi",
+          "code": "363-101",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 1,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 551
+      },
+      {
+        "id": 2588,
+        "name": "1lf2022-44",
+        "department": {
+          "id": 1,
+          "name": "1-son Davolash ishi",
+          "code": "363-101",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 1,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 831
+      },
+      {
+        "id": 2587,
+        "name": "xt2m44",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 145,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 894
+      },
+      {
+        "id": 2586,
+        "name": "mnj 101",
+        "department": {
+          "id": 10,
+          "name": "Xalqaro ta'lim fakulteti",
+          "code": "363-108",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 57,
+          "code": "5230200",
+          "name": "Menejment: sog'liqni saqlash menjmenti"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 963
+      },
+      {
+        "id": 2585,
+        "name": "2lf2023-38",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "14",
+          "name": "Ingliz"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2584,
+        "name": "2lf2023-37",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2583,
+        "name": "2lf2023-36",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2582,
+        "name": "2lf2023-35",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2581,
+        "name": "2lf2023-34",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2580,
+        "name": "2lf2023-33",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2579,
+        "name": "2lf2023-32",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2578,
+        "name": "2lf2023-31",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2577,
+        "name": "2lf2023-30",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "12",
+          "name": "Rus"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2576,
+        "name": "2lf2023-29",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2575,
+        "name": "2lf2023-28",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2574,
+        "name": "2lf2023-27",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2573,
+        "name": "2lf2023-26",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2572,
+        "name": "2lf2023-25",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2571,
+        "name": "2lf2023-24",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2570,
+        "name": "2lf2023-23",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 957
+      },
+      {
+        "id": 2569,
+        "name": "2lf2023-22",
+        "department": {
+          "id": 115,
+          "name": "2-son Davolash ishi",
+          "code": "363-112",
+          "structureType": {
+            "code": "11",
+            "name": "Fakultet"
+          },
+          "localityType": {
+            "code": "11",
+            "name": "Mahalliy"
+          },
+          "parent": null,
+          "active": true
+        },
+        "specialty": {
+          "id": 144,
+          "code": "60910200",
+          "name": "Davolash ishi"
+        },
+        "educationLang": {
+          "code": "11",
+          "name": "O‘zbek"
+        },
+        "_curriculum": 957
+      }
+    ],
+    "pagination": {
+      "totalCount": 1776,
+      "pageSize": 200,
+      "pageCount": 9,
+      "page": 1
+    }
+  },
+  "code": 200
+}
